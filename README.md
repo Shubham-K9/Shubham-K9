@@ -107,6 +107,17 @@ Passionate software engineer building scalable, maintainable products with clean
   </picture>
 </p>
 
+<p align="center">
+  <em>Preview (fallback while the workflow runs):</em>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake/dummy-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/snake/dummy-snake-light.svg" />
+    <img alt="Dummy Snake Animation" src="assets/snake/dummy-snake-light.svg" />
+  </picture>
+</p>
+
 ---
 
 ### Featured Projects
