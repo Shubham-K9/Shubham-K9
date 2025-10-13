@@ -5,7 +5,9 @@
 
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=140&section=header&text=Shubham%20Kadbhane&fontSize=42&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20·%20Full‑Stack%20Developer&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=33CFFF&center=true&vCenter=true&width=700&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+n+Shipping+Reliable+Production-Grade+Systems" 
+    alt="Typing Animation" />
 </p>
 
 <!-- Typing intro -->
@@ -25,18 +27,7 @@
         <stop offset="100%" stop-color="#6cc8ff"/>
       </linearGradient>
     </defs>
-    <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
-      <text x="450" y="34" font-size="28" font-weight="800" fill="url(#gradText)" opacity="0">
-        Shubham Kadbhane
-        <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-        <animate attributeName="y" values="44;34" dur="0.8s" fill="freeze"/>
-      </text>
-      <text x="450" y="64" font-size="18" font-weight="600" fill="#9fcaff" opacity="0">
-        Software Engineer · Full‑Stack Developer
-        <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.8s" fill="freeze"/>
-        <animate attributeName="y" values="74;64" begin="0.4s" dur="0.8s" fill="freeze"/>
-      </text>
-    </g>
+    
   </svg>
 </p>
 
@@ -164,3 +155,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
 </p>
+<!-- Alien GIF (end) --> <p align="center"> <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="300" height="300" alt="Alien on Earth animation" /> </p>
