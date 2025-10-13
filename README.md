@@ -18,6 +18,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&duration=2500&color=00BFFF&center=true&vCenter=true&multiline=true&width=900&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+%26+shipping+reliable%2C+production-grade+systems" alt="Typing SVG" />
 </p>
 
+<!-- Spacer to avoid overlap with social badges -->
+<br/>
+<br/>
+
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkadbhane)
@@ -241,7 +245,7 @@ Passionate software engineer building scalable, maintainable products with clean
 
 <!-- Alien GIF (end) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="150" height="150" alt="Alien on Earth animation" />
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="200" height="200" alt="Alien on Earth animation" />
   
 </p>
 
