@@ -1,21 +1,6 @@
-
-
-
-<!-- Banner: 3D space shuttle + astronaut welcome -->
+<!-- Banner: 3D spaceship + avatar GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="700" alt="3D Space Shuttle Animation" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="120" alt="Astronaut Waving" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=900&duration=2200&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub" alt="Welcome Typing" />
-</p>
-<!-- Lottie: 3D Shuttle Animation (click to view) -->
-<p align="center">
-  <a href="https://app.lottiefiles.com/animation/f8249827-fb62-42fc-a2f1-0f600f673818?channel=web&from=download&panel=download&source=public-animation" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20View%203D%20Shuttle%20Animation-0b5fff?style=for-the-badge&logo=lottiefiles&logoColor=white" alt="View 3D Shuttle Lottie Animation" />
-  </a>
+  <img src="C:\Users\Shubham\Downloads\bulldog flying on the rocket.gif" width="600" alt="3D Spaceship Developer Animation - Welcome!" />
 </p>
 
 <!-- Typing intro -->
