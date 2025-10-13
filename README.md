@@ -8,6 +8,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=140&section=header&text=Shubham%20Kadbhane&fontSize=42&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20·%20Full‑Stack%20Developer&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header"/>
 </p>
 
+<!-- Animated Name + Title (SVG transitions) -->
+<p align="center">
+  <svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradText" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#0b5fff"/>
+        <stop offset="100%" stop-color="#6cc8ff"/>
+      </linearGradient>
+    </defs>
+    <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="450" y="34" font-size="28" font-weight="800" fill="url(#gradText)" opacity="0">
+        Shubham Kadbhane
+        <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+        <animate attributeName="y" values="44;34" dur="0.8s" fill="freeze"/>
+      </text>
+      <text x="450" y="64" font-size="18" font-weight="600" fill="#9fcaff" opacity="0">
+        Software Engineer · Full‑Stack Developer
+        <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.8s" fill="freeze"/>
+        <animate attributeName="y" values="74;64" begin="0.4s" dur="0.8s" fill="freeze"/>
+      </text>
+    </g>
+  </svg>
+  
+</p>
+
 <!-- 3D spaceship + avatar GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/bulldog_rocket.gif" width="150" height="150" alt="Bulldog flying on a rocket" />
@@ -15,8 +40,9 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&duration=2500&color=00BFFF&center=true&vCenter=true&multiline=true&width=900&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+%26+shipping+reliable%2C+production-grade+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&duration=2500&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+%26+shipping+reliable%2C+production-grade+systems" alt="Typing SVG" />
 </p>
+<p align="center"><i>Shubham Kadbhane · Software Engineer | Full‑Stack Developer</i></p>
 
 <!-- Spacer to avoid overlap with social badges -->
 <br/>
@@ -26,20 +52,20 @@
 
 ---
 
-🚀 Recruiter Snapshot
+### About Me
+Passionate software engineer building scalable, maintainable products with clean architecture and strong DevX. I enjoy solving ambiguous problems, designing robust APIs, and tuning systems for performance and reliability. Currently exploring cloud-native platforms, production security, and modern web tooling.
 
-👨‍💻 Passionate Software Engineer building scalable, maintainable products with clean architecture and a strong developer experience (DevX).
-💡 Enjoys solving ambiguous problems, designing robust APIs, and tuning systems for performance & reliability.
-☁️ Currently exploring cloud-native platforms, production security, and modern web tooling.
+- **Focus**: end‑to‑end systems design, performance, developer experience
+- **Interests**: distributed systems, observability, CI/CD, platform engineering
+- **Looking for**: SDE roles where I can ship impact and own systems end‑to‑end
 
-🎯 Focus
-End-to-End Systems Design • Performance • Developer Experience
-
-🧠 Interests
-Distributed Systems • Observability • CI/CD • Platform Engineering
-
-📬 Looking for
-SDE roles where I can ship meaningful impact and own systems end-to-end
+<details>
+  <summary><b>Recruiter snapshot</b> — quick overview</summary>
+  
+  - Shipped full‑stack apps used by real users; emphasis on reliability and DX
+  - Strong with React/Node/TypeScript and Java/Spring; SQL/NoSQL design
+  - Comfortable with cloud, containers, CI/CD, and production hardening
+</details>
 
 ---
 
@@ -238,7 +264,7 @@ SDE roles where I can ship meaningful impact and own systems end-to-end
 
 <!-- Alien GIF (end) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="100%" height="200" alt="Alien on Earth animation" />
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="300" height="300" alt="Alien on Earth animation" />
   
 </p>
 
