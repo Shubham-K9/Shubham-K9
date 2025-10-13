@@ -22,30 +22,24 @@
 <br/>
 <br/>
 
-<div align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkadbhane)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/shubhamkadbhane)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0b5fff?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhamkadbhane.dev)
-
-</div>
+<hr/>
 
 ---
 
-### About Me
-Passionate software engineer building scalable, maintainable products with clean architecture and strong DevX. I enjoy solving ambiguous problems, designing robust APIs, and tuning systems for performance and reliability. Currently exploring cloud-native platforms, production security, and modern web tooling.
+🚀 Recruiter Snapshot
 
-- **Focus**: end‑to‑end systems design, performance, developer experience
-- **Interests**: distributed systems, observability, CI/CD, platform engineering
-- **Looking for**: SDE roles where I can ship impact and own systems end‑to‑end
+👨‍💻 Passionate Software Engineer building scalable, maintainable products with clean architecture and a strong developer experience (DevX).
+💡 Enjoys solving ambiguous problems, designing robust APIs, and tuning systems for performance & reliability.
+☁️ Currently exploring cloud-native platforms, production security, and modern web tooling.
 
-<details>
-  <summary><b>Recruiter snapshot</b> — quick overview</summary>
-  
-  - Shipped full‑stack apps used by real users; emphasis on reliability and DX
-  - Strong with React/Node/TypeScript and Java/Spring; SQL/NoSQL design
-  - Comfortable with cloud, containers, CI/CD, and production hardening
-</details>
+🎯 Focus
+End-to-End Systems Design • Performance • Developer Experience
+
+🧠 Interests
+Distributed Systems • Observability • CI/CD • Platform Engineering
+
+📬 Looking for
+SDE roles where I can ship meaningful impact and own systems end-to-end
 
 ---
 
@@ -165,15 +159,19 @@ Passionate software engineer building scalable, maintainable products with clean
   <img src="assets/accents/underline-animated.svg" alt="" />
 </p>
 
+<p align="center">
+  <img src="assets/accents/divider-wave.svg" alt="" />
+</p>
+
 <details>
-  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Education</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Education</b> <img src="assets/icons/chevron-loop.svg" width="14" height="14" alt="" /></summary>
   
   - <b>Dr. D Y Patil College of Engineering, Pune</b> — B.E. in Information Technology (Aug 2023 – Present)  
     CGPA: 9.48/10
 </details>
 
 <details>
-  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Skills</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Skills</b> <img src="assets/icons/chevron-loop.svg" width="14" height="14" alt="" /></summary>
   
   - <b>Languages</b>: Java, JavaScript, HTML, CSS, SQL  
   - <b>Frameworks & Libraries</b>: React.js, Next.js, Tailwind CSS, shadcn/ui, Material UI, Spring Boot, Hibernate, Node.js  
@@ -184,7 +182,7 @@ Passionate software engineer building scalable, maintainable products with clean
 </details>
 
 <details>
-  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Key Projects</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Key Projects</b> <img src="assets/icons/chevron-loop.svg" width="14" height="14" alt="" /></summary>
   
   - <b>DermaX (AI Skin Cancer Detection)</b> — ReactJS, CSS, HTML, Flask API, MATLAB  
     Built an AI-powered web app achieving ~84.6% accuracy on 15k+ ISIC images; MATLAB for initial prototyping, Flask backend, ReactJS frontend; added secure login, role-based access, and dynamic result visualization.  
@@ -195,20 +193,20 @@ Passionate software engineer building scalable, maintainable products with clean
 </details>
 
 <details>
-  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Leadership</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Leadership</b> <img src="assets/icons/chevron-loop.svg" width="14" height="14" alt="" /></summary>
   
   - IEI DYPCOE — Vice President (2024 – Present)  
   - Rotary International Pune Club — Member (2024 – Present)
 </details>
 
 <details>
-  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Certifications</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Certifications</b> <img src="assets/icons/chevron-loop.svg" width="14" height="14" alt="" /></summary>
   
   - Java; ReactJS; Full-Stack Web Development (MERN); Spring & Microservices; AWS; Angular (Infosys); Magnitude Hackathon
 </details>
 
 <details>
-  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Achievements & Awards</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Achievements & Awards</b> <img src="assets/icons/chevron-loop.svg" width="14" height="14" alt="" /></summary>
   
   - Solved 1000+ DSA problems (LeetCode, GfG, NeetCode)  
   - Magnitude Hackathon (24h onsite), among 50+ teams across India  
@@ -232,11 +230,6 @@ Passionate software engineer building scalable, maintainable products with clean
   <img src="https://komarev.com/ghpvc/?username=ShubhamKadbhane&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="mailto:shubham.kadbhane.work@gmail.com"><img src="assets/badges/contact-badge.svg" alt="Email • Contact Me" /></a>
-  <img src="assets/badges/open-to-opportunities.svg" alt="Open to Opportunities" />
-</p>
-
 <!-- Animated Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=120&section=footer" alt="Footer"/>
@@ -245,7 +238,7 @@ Passionate software engineer building scalable, maintainable products with clean
 
 <!-- Alien GIF (end) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="200" height="200" alt="Alien on Earth animation" />
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="100%" height="200" alt="Alien on Earth animation" />
   
 </p>
 
