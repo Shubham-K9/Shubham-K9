@@ -105,27 +105,33 @@ SDE roles where I can ship meaningful impact and own systems end-to-end
 
 ### GitHub Overview
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamKadbhane&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" height="120" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-K9
+&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" height="120" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamKadbhane&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKadbhane&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-K9
+&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-K9
+&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShubhamKadbhane&theme=tokyonight&hide_border=true" height="160" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Shubham-K9
+&theme=tokyonight&hide_border=true" height="160" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKadbhane&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-K9
+&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 ### Star History
 <p align="center">
-  <a href="https://star-history.com/#ShubhamKadbhane?Date">
+  <a href="https://star-history.com/#Shubham-K9
+?Date">
     <img src="https://api.star-history.com/svg?repos=Shubham-K9&type=Date" alt="Star History Chart" />
   </a>
 </p>
@@ -137,7 +143,9 @@ SDE roles where I can ship meaningful impact and own systems end-to-end
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamKadbhane/ShubhamKadbhane/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamKadbhane/ShubhamKadbhane/output/snake-light.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ShubhamKadbhane/ShubhamKadbhane/output/snake-light.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Shubham-K9
+/Shubham-K9
+/output/snake-light.svg" />
   </picture>
 </p>
 
@@ -170,8 +178,10 @@ SDE roles where I can ship meaningful impact and own systems end-to-end
   <summary><b>Want visuals?</b> Click to expand pinned previews</summary>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamKadbhane&repo=portfolio&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamKadbhane&repo=task-manager&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-K9
+&repo=portfolio&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-K9
+&repo=task-manager&theme=tokyonight&hide_border=true" />
   </p>
 </details>
 
