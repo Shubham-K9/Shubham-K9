@@ -1,3 +1,8 @@
+<!-- Welcome GIF (topmost) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/welcome-animation-gif-download-4921799.gif" width="180" height="180" alt="Welcome animation" />
+</p>
+
 <!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=140&section=header&text=Shubham%20Kadbhane&fontSize=42&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20·%20Full‑Stack%20Developer&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header"/>
@@ -122,6 +127,10 @@ Passionate software engineer building scalable, maintainable products with clean
 
 ### Featured Projects
 
+<p align="center">
+  <img src="assets/accents/underline-animated.svg" alt="" />
+</p>
+
 | Name | Tech Stack | Description |
 |---|---|---|
 | Portfolio Website | React, Tailwind, Vercel | Personal portfolio showcasing projects and skills |
@@ -148,15 +157,19 @@ Passionate software engineer building scalable, maintainable products with clean
 
 ### Resume Snapshot
 
+<p align="center">
+  <img src="assets/accents/underline-animated.svg" alt="" />
+</p>
+
 <details>
-  <summary><b>Education</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Education</b></summary>
   
   - <b>Dr. D Y Patil College of Engineering, Pune</b> — B.E. in Information Technology (Aug 2023 – Present)  
     CGPA: 9.48/10
 </details>
 
 <details>
-  <summary><b>Skills</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Skills</b></summary>
   
   - <b>Languages</b>: Java, JavaScript, HTML, CSS, SQL  
   - <b>Frameworks & Libraries</b>: React.js, Next.js, Tailwind CSS, shadcn/ui, Material UI, Spring Boot, Hibernate, Node.js  
@@ -167,7 +180,7 @@ Passionate software engineer building scalable, maintainable products with clean
 </details>
 
 <details>
-  <summary><b>Key Projects</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Key Projects</b></summary>
   
   - <b>DermaX (AI Skin Cancer Detection)</b> — ReactJS, CSS, HTML, Flask API, MATLAB  
     Built an AI-powered web app achieving ~84.6% accuracy on 15k+ ISIC images; MATLAB for initial prototyping, Flask backend, ReactJS frontend; added secure login, role-based access, and dynamic result visualization.  
@@ -178,20 +191,20 @@ Passionate software engineer building scalable, maintainable products with clean
 </details>
 
 <details>
-  <summary><b>Leadership</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Leadership</b></summary>
   
   - IEI DYPCOE — Vice President (2024 – Present)  
   - Rotary International Pune Club — Member (2024 – Present)
 </details>
 
 <details>
-  <summary><b>Certifications</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Certifications</b></summary>
   
   - Java; ReactJS; Full-Stack Web Development (MERN); Spring & Microservices; AWS; Angular (Infosys); Magnitude Hackathon
 </details>
 
 <details>
-  <summary><b>Achievements & Awards</b></summary>
+  <summary><img src="assets/icons/pulse-blue.svg" width="14" height="14" alt="" /> <b>Achievements & Awards</b></summary>
   
   - Solved 1000+ DSA problems (LeetCode, GfG, NeetCode)  
   - Magnitude Hackathon (24h onsite), among 50+ teams across India  
@@ -216,13 +229,20 @@ Passionate software engineer building scalable, maintainable products with clean
 </p>
 
 <p align="center">
-  <a href="mailto:shubham.kadbhane.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0b5fff?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat" alt="Open to work" />
+  <a href="mailto:shubham.kadbhane.work@gmail.com"><img src="assets/badges/contact-badge.svg" alt="Email • Contact Me" /></a>
+  <img src="assets/badges/open-to-opportunities.svg" alt="Open to Opportunities" />
 </p>
 
 <!-- Animated Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=120&section=footer" alt="Footer"/>
+</p>
+
+
+<!-- Alien GIF (end) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="150" height="150" alt="Alien on Earth animation" />
+  
 </p>
 
 
