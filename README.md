@@ -126,7 +126,7 @@ SDE roles where I can ship meaningful impact and own systems end-to-end
 ### Star History
 <p align="center">
   <a href="https://star-history.com/#ShubhamKadbhane?Date">
-    <img src="https://api.star-history.com/svg?repos=ShubhamKadbhane&type=Date" alt="Star History Chart" />
+    <img src="https://api.star-history.com/svg?repos=Shubham-K9&type=Date" alt="Star History Chart" />
   </a>
 </p>
 
