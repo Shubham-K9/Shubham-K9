@@ -1,6 +1,6 @@
 <!-- Banner: 3D spaceship + avatar GIF -->
 <p align="center">
-  <img src="C:\Users\Shubham\Downloads\bulldog flying on the rocket.gif" width="600" alt="3D Spaceship Developer Animation - Welcome!" />
+  <img src="https://app.lottiefiles.com/animation/f8249827-fb62-42fc-a2f1-0f600f673818" width="600" alt="3D Spaceship Developer Animation - Welcome!" />
 </p>
 
 <!-- Typing intro -->
