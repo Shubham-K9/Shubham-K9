@@ -1,76 +1,217 @@
-<!-- Banner: 3D spaceship + avatar GIF -->
-<!-- Animated Header -->
+<!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/bulldog_rocket.gif" width="150" height="150" alt="Bulldog flying on a rocket">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=140&section=header&text=Shubham%20Kadbhane&fontSize=42&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20·%20Full‑Stack%20Developer&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header"/>
 </p>
+
+<!-- 3D spaceship + avatar GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/bulldog_rocket.gif" width="150" height="150" alt="Bulldog flying on a rocket" />
+</p>
+
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&duration=2500&color=00BFFF&center=true&vCenter=true&width=900&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+Google+SDE" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&duration=2500&color=00BFFF&center=true&vCenter=true&multiline=true&width=900&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+%26+shipping+reliable%2C+production-grade+systems" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkadbhane)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/shubhamkadbhane)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0b5fff?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhamkadbhane.dev)
+
+</div>
+
+---
+
+### About Me
+Passionate software engineer building scalable, maintainable products with clean architecture and strong DevX. I enjoy solving ambiguous problems, designing robust APIs, and tuning systems for performance and reliability. Currently exploring cloud-native platforms, production security, and modern web tooling.
+
+- **Focus**: end‑to‑end systems design, performance, developer experience
+- **Interests**: distributed systems, observability, CI/CD, platform engineering
+- **Looking for**: SDE roles where I can ship impact and own systems end‑to‑end
+
+<details>
+  <summary><b>Recruiter snapshot</b> — quick overview</summary>
+  
+  - Shipped full‑stack apps used by real users; emphasis on reliability and DX
+  - Strong with React/Node/TypeScript and Java/Spring; SQL/NoSQL design
+  - Comfortable with cloud, containers, CI/CD, and production hardening
+</details>
+
+---
+
+### Now
+
+<p>
+  <img src="https://img.shields.io/badge/Learning-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepening-Cloud%20Security-0b5fff" />
+  <img src="https://img.shields.io/badge/Practicing-System%20Design-111111" />
 </p>
 
 ---
 
-## About Me
-Passionate software engineer building **scalable full-stack applications** with clean architecture and **robust DevX**.  
-Currently exploring **cloud-native systems, production-grade security, and modern web technologies**.  
-Open to challenging SDE roles to **design, build, and optimize end-to-end systems**.  
-
----
-
-## Technical Skills
+### Technical Skills
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="44" height="44" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/>
 </p>
 
----
-
-## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamKadbhane&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKadbhane&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,postgres,mongodb,redis,docker,git,linux,aws&perline=8" alt="Skill icons"/>
 </p>
 
 ---
 
-## Featured Projects
+### GitHub Overview
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamKadbhane&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" height="120" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamKadbhane&show_icons=true&hide_border=true&theme=tokyonight" height="160" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKadbhane&layout=compact&hide_border=true&theme=tokyonight" height="160" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShubhamKadbhane&theme=tokyonight&hide_border=true" height="160" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKadbhane&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### Star History
+<p align="center">
+  <a href="https://star-history.com/#ShubhamKadbhane?Date">
+    <img src="https://api.star-history.com/svg?repos=ShubhamKadbhane&type=Date" alt="Star History Chart" />
+  </a>
+</p>
+
+---
+
+### Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamKadbhane/ShubhamKadbhane/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamKadbhane/ShubhamKadbhane/output/snake-light.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ShubhamKadbhane/ShubhamKadbhane/output/snake-light.svg" />
+  </picture>
+</p>
+
+---
+
+### Featured Projects
+
 | Name | Tech Stack | Description |
 |---|---|---|
 | Portfolio Website | React, Tailwind, Vercel | Personal portfolio showcasing projects and skills |
-| Task Management App | React, Node.js, MongoDB | Full-stack app with auth, cart, search, and payments |
+| Task Management App | React, Node.js, MongoDB | Full‑stack app with auth, search, and payments |
 | AI Projects | Python, Flask, ML | Experimental ML projects integrating AI APIs |
 
+<details>
+  <summary><b>Want visuals?</b> Click to expand pinned previews</summary>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamKadbhane&repo=portfolio&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamKadbhane&repo=task-manager&theme=tokyonight&hide_border=true" />
+  </p>
+</details>
+
 ---
 
-## Achievements
-- Solved **1000+ DSA problems** across platforms  
-- Delivered seminars on **web & backend fundamentals**  
-- Active in **open-source and hackathons**  
+### Achievements
+- Solved **1000+ DSA problems** across platforms
+- Delivered seminars on **web and backend fundamentals**
+- Active in **open‑source and hackathons**
 
 ---
 
-## Connect with Me
+### Resume Snapshot
+
+<details>
+  <summary><b>Education</b></summary>
+  
+  - <b>Dr. D Y Patil College of Engineering, Pune</b> — B.E. in Information Technology (Aug 2023 – Present)  
+    CGPA: 9.48/10
+</details>
+
+<details>
+  <summary><b>Skills</b></summary>
+  
+  - <b>Languages</b>: Java, JavaScript, HTML, CSS, SQL  
+  - <b>Frameworks & Libraries</b>: React.js, Next.js, Tailwind CSS, shadcn/ui, Material UI, Spring Boot, Hibernate, Node.js  
+  - <b>Databases</b>: MySQL, MongoDB  
+  - <b>Tools</b>: Git, Postman, VS Code, Figma, IntelliJ IDEA, Maven, Jira, Webpack, Parcel, Vite, PowerShell, CursorAI, Vercel  
+  - <b>Backend Concepts</b>: REST APIs, Microservices Architecture  
+  - <b>CS Fundamentals</b>: OOP, DBMS, OS, CN, DSA
+</details>
+
+<details>
+  <summary><b>Key Projects</b></summary>
+  
+  - <b>DermaX (AI Skin Cancer Detection)</b> — ReactJS, CSS, HTML, Flask API, MATLAB  
+    Built an AI-powered web app achieving ~84.6% accuracy on 15k+ ISIC images; MATLAB for initial prototyping, Flask backend, ReactJS frontend; added secure login, role-based access, and dynamic result visualization.  
+  - <b>Food Delivery App</b> — HTML, ReactJS, Tailwind CSS, Spring Boot  
+    Responsive ordering app with cart, auth, search, mock payments; config-driven UI for flexible, scalable component rendering.  
+  - <b>Drum Kit Game</b> — HTML, CSS, JavaScript  
+    Browser-based drum kit; event handling and audio APIs.
+</details>
+
+<details>
+  <summary><b>Leadership</b></summary>
+  
+  - IEI DYPCOE — Vice President (2024 – Present)  
+  - Rotary International Pune Club — Member (2024 – Present)
+</details>
+
+<details>
+  <summary><b>Certifications</b></summary>
+  
+  - Java; ReactJS; Full-Stack Web Development (MERN); Spring & Microservices; AWS; Angular (Infosys); Magnitude Hackathon
+</details>
+
+<details>
+  <summary><b>Achievements & Awards</b></summary>
+  
+  - Solved 1000+ DSA problems (LeetCode, GfG, NeetCode)  
+  - Magnitude Hackathon (24h onsite), among 50+ teams across India  
+  - Qualified Smart India Hackathon internal rounds (2×)  
+  - Top 3% — MHT CET 2023  
+  - Top 8% — JEE Mains 2023 (1.5M)  
+  - Qualified — JEE Advanced 2023 (1.5M)  
+  - 1st Rank — HSC Board Exam 2023 (1000+ students)
+</details>
+
+---
+
+### Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/shubhamkadbhane">
-    <img src="https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/shubhamkadbhane">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-  <a href="https://shubhamkadbhane.dev">
-    <img src="https://img.shields.io/badge/Portfolio-0b5fff?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/shubhamkadbhane"><img src="https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/shubhamkadbhane"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://shubhamkadbhane.dev"><img src="https://img.shields.io/badge/Portfolio-0b5fff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShubhamKadbhane&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
 </p>
+
+<p align="center">
+  <a href="mailto:shubham.kadbhane.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0b5fff?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat" alt="Open to work" />
+</p>
+
+<!-- Animated Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=120&section=footer" alt="Footer"/>
+</p>
+
+
