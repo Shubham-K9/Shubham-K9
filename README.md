@@ -1,8 +1,8 @@
 <!-- Banner: 3D spaceship + avatar GIF -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://app.lottiefiles.com/animation/f8249827-fb62-42fc-a2f1-0f600f673818" width="600" alt="3D Spaceship Developer Animation - Welcome!" />
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/bulldog_rocket.gif" width="150" height="150" alt="Bulldog flying on a rocket">
 </p>
-
 <!-- Typing intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&duration=2500&color=00BFFF&center=true&vCenter=true&width=900&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+Google+SDE" alt="Typing SVG">
