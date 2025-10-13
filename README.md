@@ -8,9 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0b5fff&height=140&section=header&text=Shubham%20Kadbhane&fontSize=42&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20·%20Full‑Stack%20Developer&descAlign=50&descAlignY=60&fontColor=ffffff" alt="Header"/>
 </p>
 
-<!-- Typing intro (moved up for visibility) -->
+<!-- Typing intro (animated and centered) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&duration=2500&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+%26+shipping+reliable%2C+production-grade+systems" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=33CFFF&center=true&vCenter=true&width=700&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+and+Shipping+Reliable+Production-Grade+Systems" 
+    alt="Typing Animation for Shubham Kadbhane" />
 </p>
 
 <!-- Animated Name + Title (SVG transitions) -->
