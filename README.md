@@ -11,8 +11,9 @@
 <!-- Typing intro -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=33CFFF&center=true&vCenter=true&width=700&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Designing+n+Shipping+Reliable+Production-Grade+Systems" 
-    alt="Typing Animation" />
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=33CFFF&center=true&vCenter=true&width=700&lines=Shubham%20Kadbhane%0ASoftware%20Engineer%20%7C%20Full-Stack%20Developer%0AAspiring%20SDE%0ADesigning%20%26%20Shipping%20Reliable%20Production-Grade%20Systems" 
+    alt="Typing Animation for Shubham Kadbhane" />
+
 </p>
 
 <!-- Animated Name + Title (SVG transitions) -->
