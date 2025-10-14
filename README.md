@@ -6,7 +6,7 @@
 <!-- Animated Header Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=33CFFF&center=true&vCenter=true&width=700&lines=Shubham+Kadbhane;👨‍💻+Software+Engineer+%7C+🌐+Full-Stack+Developer;👨‍💻+Aspiring+SDE;🔧+Shipping+Reliable+Production-Grade+Systems" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=33CFFF&center=true&vCenter=true&width=700&lines=Shubham+Kadbhane;Software+Engineer+%7C+Full-Stack+Developer;Aspiring+SDE;Shipping+Reliable+Production-Grade+Systems" 
     alt="Typing Animation" />
 </p>
 
