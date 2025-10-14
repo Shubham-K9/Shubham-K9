@@ -101,10 +101,10 @@
 
 ### 🌟 Star History Across Main Repos
 
-<p align="center" style="background-color:#0d1117; padding:10px; border-radius:12px;">
-  <!-- Star History for multiple repos -->
-  <img src="https://api.star-history.com/svg?repos=Shubham-K9/portfolio,Shubham-K9/task-manager&type=Date" alt="Star History Chart" />
-</p>
+<div align="center" style="background-color:#0d1117; padding:10px; border-radius:12px;">
+  <img src="https://api.star-history.com/svg?repos=Shubham-K9/portfolio,Shubham-K9/task-manager&type=Date&theme=dark" alt="Star History Chart" />
+</div>
+
 
 <p align="center">
   <em>Star History (fallback while the workflow runs or if image fails)</em>
