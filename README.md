@@ -141,14 +141,30 @@
 
 ---
 
-### Connect with Me
+---
+
+### 📫 Contact Me
 <p align="center">
-  <a href="https://linkedin.com/in/shubhamkadbhane"><img src="https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/shubhamkadbhane"><img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-  <a href="https://shubhamkadbhane.dev"><img src="https://img.shields.io/badge/Portfolio-0b5fff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:shubkadbhane@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:shubkadbhane@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="https://linkedin.com/in/shubhamkadbhane">
+    <img src="https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/shubhamkadbhane">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://shubhamkadbhane.dev">
+    <img src="https://img.shields.io/badge/Portfolio-0b5fff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
-</p>
-<!-- Alien GIF (end) --> <p align="center"> <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="300" height="300" alt="Alien on Earth animation" /> </p>
+<div align="center" style="background-color:#0d1117; padding:15px; border-radius:12px; margin-top:10px;">
+  <p style="color:white; font-size:14px;">
+    Feel free to reach out via Gmail or Outlook! I’m always open to networking, collaborations, or SDE opportunities.
+  </p>
+</div>
+
