@@ -99,12 +99,14 @@
 
 ---
 
-### Star History
+### 🌟 Star History Across Main Repos
+
 <p align="center">
-  <a href="https://star-history.com/#Shubham-K9?Date">
-    <img src="https://api.star-history.com/svg?repos=Shubham-K9&type=Date" alt="Star History Chart" />
+  <a href="https://star-history.com/#Shubham-K9/portfolio?Date">
+    <img src="https://api.star-history.com/svg?repos=Shubham-K9/portfolio,Shubham-K9/task-manager,Shubham-K9/Drum-Kit-Game&type=Date" alt="Star History Chart" />
   </a>
 </p>
+
 
 ---
 
