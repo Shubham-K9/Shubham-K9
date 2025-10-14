@@ -109,16 +109,13 @@
 ---
 
 ### Contributions (Snake Animation)
+### 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/output/snake-light.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/output/snake-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/output/snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/output/snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <em>Preview (fallback while the workflow runs)</em>
 </p>
 
 ---
