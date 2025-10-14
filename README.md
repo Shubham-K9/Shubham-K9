@@ -61,17 +61,7 @@
 ---
 
 ### Technical Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="44" height="44" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/>
-</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,postgres,mongodb,redis,docker,git,linux,aws&perline=8" alt="Skill icons"/>
@@ -123,25 +113,7 @@
   </picture>
 </p>
 
----
 
-### Featured Projects
-| Name | Tech Stack | Description |
-|---|---|---|
-| Portfolio Website | React, Tailwind, Vercel | Personal portfolio showcasing projects and skills |
-| Task Management App | React, Node.js, MongoDB | Full‑stack app with auth, search, and payments |
-| AI Projects | Python, Flask, ML | Experimental ML projects integrating AI APIs |
-
----
-
-### Achievements
-- Solved **1000+ DSA problems** across platforms
-- Delivered seminars on **web and backend fundamentals**
-- Active in **open‑source and hackathons**
-
----
-
----
 
 ### 📫 Contact Me
 <p align="center">
