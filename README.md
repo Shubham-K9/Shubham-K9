@@ -1,6 +1,6 @@
 <!-- Welcome GIF (topmost) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/welcome-animation-gif-download-4921799.gif" width="180" height="180" alt="Welcome animation" />
+  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/Welcome Animation.gif" width="180" height="180" alt="Welcome animation" />
 </p>
 
 <!-- Animated Header Banner -->
@@ -140,4 +140,4 @@
     Feel free to reach out via Gmail or Outlook! I’m always open to networking, collaborations, or SDE opportunities.
   </p>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" /> </p> <!-- Alien GIF (end) --> <p align="center"> <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/alien-on-earth-animated-icon-gif-download-4094552.gif" width="300" height="300" alt="Alien on Earth animation" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" /> </p> <!-- Alien GIF (end) --> <p align="center"> <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/Earth and Connections.gif" width="300" height="300" alt="Earth animation" /> </p>
