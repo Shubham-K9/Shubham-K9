@@ -82,8 +82,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubham-K9&theme=tokyonight&hide_border=true" height="160" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Shubham-K9&theme=tokyonight&hide_border=true&include_private=true" height="160" alt="Streak"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-K9&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
