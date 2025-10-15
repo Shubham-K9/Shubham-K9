@@ -1,8 +1,9 @@
 <!-- Welcome GIF (topmost) -->
-<p align="center">
+<p align="center" style="background-color:#0d1117; padding:20px; border-radius:20px;">
   <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/hello-animated-icon-gif-download-12495217.gif"
-   width="180" height="180" alt="Welcome animation" />
+       width="180" height="180" alt="Welcome animation" />
 </p>
+
 
 <!-- Animated Header Banner -->
 <p align="center">
