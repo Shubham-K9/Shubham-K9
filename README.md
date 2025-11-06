@@ -120,7 +120,7 @@
   <a href="https://leetcode.com/shubhamkadbhane">
     <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
-  <a href="portfolio-one-beta-82.vercel.app">
+  <a href="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0b5fff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
