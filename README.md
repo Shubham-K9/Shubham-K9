@@ -90,25 +90,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-K9&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
----
-
-<h3 align="center">🌟 Star History Across My Main Repos</h3>
-
-<div align="center" style="background-color:#0d1117; padding:16px; border-radius:12px;">
-  <a href="https://star-history.com/#Shubham-K9/portfolio&Shubham-K9/task-manager">
-    <img 
-      src="https://api.star-history.com/svg?repos=Shubham-K9/portfolio,Shubham-K9/task-manager&type=Date&theme=dark" 
-      alt="Star History Chart" 
-      style="border-radius:8px; width:90%; max-width:900px;"
-    />
-  </a>
-</div>
-
-
-
-
-
-
 
 ---
 
