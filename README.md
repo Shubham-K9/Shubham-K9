@@ -92,11 +92,18 @@
 
 ---
 
-### 🌟 Star History Across Main Repos
+<h3 align="center">🌟 Star History Across My Main Repos</h3>
 
-<div align="center" style="background-color:#0d1117; padding:10px; border-radius:12px;">
-  <img src="https://api.star-history.com/svg?repos=vercel/next.js,facebook/react&type=Date&theme=dark" alt="Star History Chart" />
+<div align="center" style="background-color:#0d1117; padding:16px; border-radius:12px;">
+  <a href="https://star-history.com/#Shubham-K9/portfolio&Shubham-K9/task-manager">
+    <img 
+      src="https://api.star-history.com/svg?repos=Shubham-K9/portfolio,Shubham-K9/task-manager&type=Date&theme=dark" 
+      alt="Star History Chart" 
+      style="border-radius:8px; width:90%; max-width:900px;"
+    />
+  </a>
 </div>
+
 
 
 
