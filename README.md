@@ -55,9 +55,9 @@
 
 ### Now
 <p>
-  <img src="https://img.shields.io/badge/Learning-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deepening-Cloud%20Security-0b5fff" />
-  <img src="https://img.shields.io/badge/Practicing-System%20Design-111111" />
+<img src="https://img.shields.io/badge/Learning-Spring-6DB33F?logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Deepening-Cloud%20Platform-0b5fff" />
+<img src="https://img.shields.io/badge/Practicing-System%20Design-111111" />
 </p>
 
 ---
