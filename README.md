@@ -130,3 +130,7 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" />
+</p>
+
