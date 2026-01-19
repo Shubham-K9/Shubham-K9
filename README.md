@@ -129,4 +129,4 @@
     Feel free to reach out via Gmail or Outlook! I’m always open to networking, collaborations, or SDE opportunities.
   </p>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubham-K9&label=Profile%20Views&color=0b5fff&style=flat" alt="Profile Views" /> </p> <!-- Alien GIF (end) --> <p align="center"> <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/Earth and Connections.gif" width="300" height="300" alt="Earth animation" /> </p>
+
