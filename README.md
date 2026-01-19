@@ -1,7 +1,4 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer" alt="Typing Animation" />
-</p>
+
 
 
 <!-- Animated Header Banner -->
@@ -26,10 +23,7 @@
   </svg>
 </p>
 
-<!-- 3D spaceship + avatar GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/bulldog_rocket.gif" width="150" height="150" alt="Bulldog flying on a rocket" />
-</p>
+
 
 ---
 
