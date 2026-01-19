@@ -1,7 +1,6 @@
-<!-- Welcome GIF (topmost) -->
-<p align="center" style="background-color:#0d1117; padding:20px; border-radius:20px;">
-  <img src="https://raw.githubusercontent.com/Shubham-K9/Shubham-K9/main/assets/Welcome Animation.gif"
-       width="180" height="180" alt="Welcome animation" />
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=console.log('Welcome+to+my+GitHub');Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
 
